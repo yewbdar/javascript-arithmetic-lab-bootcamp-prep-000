@@ -26,7 +26,7 @@ function makeInt(n){
 }
 function makeInt(n){
  
-  return 0
+  return parseInt()
 }
 function makeInt(n){
  
