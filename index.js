@@ -1,5 +1,6 @@
 function add(a,b){
-  return Math.abs(a) + Math.abs(b) 
+   Math.abs(a) + Math.abs(b) 
+   return a + b
 }
 function subtract(a,b){
   return a - b 
